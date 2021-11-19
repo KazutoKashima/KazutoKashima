@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm a 17-year-old Backend, aspiring software developer, and network engineer (currently studying for the CCNA 200-301) <br>
+I'm a 18-year-old Backend, aspiring software developer, and network engineer (currently studying for the CCNA 200-301) <br>
 
 <br>
 
@@ -25,3 +25,6 @@ I'm a 17-year-old Backend, aspiring software developer, and network engineer (cu
 - - Discord: [Join here!](https://discord.gg/SGZpSzg5Ua)
 - - Insta: @kazkashima
 - 😄 Pronouns (MtF): She/Her/They/Them
+
+### Meow~
+Lala was here 👀❤️
