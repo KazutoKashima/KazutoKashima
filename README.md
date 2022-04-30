@@ -26,6 +26,10 @@ I'm an 18-year-old Backend, aspiring software developer, and network engineer (c
 - - Insta: @kazkashima
 - 😄 Pronouns (MtF): She/Her/They/Them
 
+![Kaz Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KazutoKashima&theme=solarized_dark)
+![Kaz Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KazutoKashima&theme=solarized_dark)
+![Kaz Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazutoKashima&theme=solarized_dark)
+
 ### Meow~
 Lala was here 👀❤️ <br>
 And her Otter Slave 
